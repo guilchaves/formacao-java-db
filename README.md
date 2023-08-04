@@ -1,4 +1,4 @@
-cp ## Formação Banco de Dados Java
+## Formação Banco de Dados Java
 
 Esse repositório contém estudos da formação [Integre aplicações Java com Banco de Dados](https://cursos.alura.com.br/formacao-banco-dados-java) com a intenção de documentar meu aprendizado na linguagem.
 
